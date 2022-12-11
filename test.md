@@ -1,3 +1,3 @@
-seminary
+seminary geekbrains
 
-some info
+some info 
